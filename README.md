@@ -1,7 +1,7 @@
 # 🎬 Filmmaking Mastery Roadmap – By Afsar Ahamed
 
 ### 🎯 Goal
-Own the craft of filmmaking end-to-end — from idea to post-production — with mastery of storytelling, screenwriting tools, cinematography, production, editing, and delivery.
+Own the craft of filmmaking end-to-end — from idea to post-production — with mastery of storytelling, screenwriting tools, cinematography, production, editing, sound design, scoring, and delivery.
 
 ---
 
@@ -138,12 +138,16 @@ Own the craft of filmmaking end-to-end — from idea to post-production — with
 | **Descript** | Voice editing and subtitling |
 | **After Effects** | Motion graphics, VFX |
 | **Artlist / Epidemic Sound / Soundstripe** | Royalty-free music & SFX |
+| **Ableton Live / Logic Pro** | Scoring original music |
+| **Splice / LANDR / Soundly** | Sound libraries, audio mastering |
 
 ### 📘 Learning Resources
 - DaVinci Resolve Official Training Books (free)
 - YouTube: Justin Odisho, Premiere Basics, Casey Faris
 - "The Visual Story" by Bruce Block
 - "In the Blink of an Eye" by Walter Murch (on editing philosophy)
+- "The Sound Effects Bible" by Ric Viers
+- "Sound Design: The Expressive Power of Music, Voice and Sound Effects in Cinema" by David Sonnenschein
 
 ---
 
